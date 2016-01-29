@@ -1,0 +1,15 @@
+{
+    "name": "react-css-modules",
+    "description": "Seamless mapping of class names to CSS modules inside of React components.",
+    "repos": "https://github.com/gajus/react-css-modules.git",
+    "main": "index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "lodash": "^4.0.0"
+    },
+    "paths": {
+        "dist": "."
+    },
+    "version": "3.6.8"
+}
